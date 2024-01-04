@@ -1,0 +1,8 @@
+{
+  "name": "Gayatri Chetana Kendra",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "36b17c8c"
+}
